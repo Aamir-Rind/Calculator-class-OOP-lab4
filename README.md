@@ -10,3 +10,4 @@ the statement as follows.
  calculateCube(int x)
  calculateFactorial (int x)
  generateTable(int x)
+Author: Aamir rind
